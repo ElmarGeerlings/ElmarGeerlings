@@ -4,7 +4,7 @@ My name is Elmar Geerlings. I am a Meteorology MSc, Physics BSc, in the beginnin
 
 # My projects
 
-### Workout webapp (WIP): https://github.com/ElmarGeerlings/gymapp
+### Workout webapp (WIP): https://github.com/ElmarGeerlings/gainz2
 A Django-powered workout app that helps lifters plan structured programs, log detailed sessions, analyze progress, and share milestones with friends. The app combines classic workout logging with AI-assisted program design, rich analytics, and a lightweight social layer.
 
 ### Workout webapp: https://github.com/ElmarGeerlings/workout
